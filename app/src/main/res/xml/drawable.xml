@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <version>1</version>
+    <category title="Gothic Legion" />
+    <item drawable="calendar" />
+    <item drawable="camera" />
+    <item drawable="chrome" />
+    <item drawable="clock" />
+    <item drawable="discord" />
+    <item drawable="drive" />
+    <item drawable="eden" />
+    <item drawable="facebook" />
+    <item drawable="files" />
+    <item drawable="gallery" />
+    <item drawable="games" />
+    <item drawable="gmail" />
+    <item drawable="google" />
+    <item drawable="instagram" />
+    <item drawable="music" />
+    <item drawable="netflix" />
+    <item drawable="photos" />
+    <item drawable="play_store" />
+    <item drawable="reddit" />
+    <item drawable="settings" />
+    <item drawable="spotify" />
+    <item drawable="tachiyomi" />
+    <item drawable="telegram" />
+    <item drawable="tiktok" />
+    <item drawable="whatsapp" />
+    <item drawable="wuthering_waves" />
+    <item drawable="x" />
+    <item drawable="youtube" />
+</resources>

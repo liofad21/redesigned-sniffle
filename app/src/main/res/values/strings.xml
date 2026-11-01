@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gothic Legion Icons</string>
+    <string name="widget_clock_desc">Gothic Legion - Clock</string>
+    <string name="widget_date_desc">Gothic Legion - Date</string>
+    <string name="widget_battery_desc">Gothic Legion - Battery</string>
+</resources>
